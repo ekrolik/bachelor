@@ -1,0 +1,4 @@
+### Semiclassical and Classical Methods for Dark Matter Void Evolution
+
+#### Abstract:
+We investigate the differences between classical and semiclassical methods for the evolution of wave-like dark matter in cosmic voids. The classical approach is based on the Zeldovich approximation where we will especially evaluate the evolution beyond shell-crossing in the multi-streaming regime. The semiclassical setup consits of a free Schrödinger equation and one with an additional quantum pressure potential. We will compare both semiclassical methods and evaluate the impact of a cosmic void on the quantum pressure potential. Our setup consits of an initial velocity field with particles moving away from the center of our box so creating a void. The initial densities will be an initial void and an initially homogeneous region.
